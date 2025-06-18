@@ -2,7 +2,7 @@
 
 This document provides a combined code snippet for calculating the Greatest Common Divisor (GCD) and Least Common Multiple (LCM) of two numbers using different methods:
 1. **GCD without optimization**
-2. **GCD with optimization using Euclidean's theorem**
+2. **GCD with optimization using Euclidean's theorem** 
 3. **GCD and LCM calculation**
 
 ## Code
