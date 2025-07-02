@@ -1,6 +1,6 @@
 # Time and Space Complexity Notes
 
-## Time Complexity
+## Time Complexity 
  
 Time complexity is a way to represent the number of iterations or steps an algorithm takes to complete. There are several notations used to describe time complexity:
 
